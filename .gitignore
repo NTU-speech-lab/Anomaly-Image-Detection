@@ -1,0 +1,6 @@
+data/
+*.csv
+.vscode/
+picture/
+__pycache__/
+src/eva.py
