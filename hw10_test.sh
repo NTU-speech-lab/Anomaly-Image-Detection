@@ -1,0 +1,1 @@
+python3 src/test.py --input $1 --model $2 --output $3
