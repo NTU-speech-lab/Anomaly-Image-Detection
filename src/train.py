@@ -31,7 +31,7 @@ args = {
     "batch_size": 128,
     "learning_rate": 1e-3,
     "model_type": 'fcn',
-    "local_mode": True,
+    "local_mode": False,
     "criterion": nn.MSELoss()
 }
 args = type('Args', (object, ), args)
